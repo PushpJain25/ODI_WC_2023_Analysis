@@ -1,0 +1,575 @@
+Match Number,Match,Team Innings,Bowler,Wickets,Overs,Maidens,No Balls,Wides,Runs,Economy
+1,England vs New Zealand,England,  Boult  ,1,10,1,0,1,48,4.8
+1,England vs New Zealand,England,  Matt Henry  ,3,10,1,0,0,48,4.8
+1,England vs New Zealand,England,  Santner  ,2,10,0,0,1,37,3.7
+1,England vs New Zealand,England,  Neesham  ,0,7,0,0,4,56,8
+1,England vs New Zealand,England,  Rachin Ravindra  ,1,10,0,0,0,76,7.6
+1,England vs New Zealand,England,  Glenn Phillips  ,2,3,0,0,0,17,5.7
+1,England vs New Zealand,New Zealand,  Chris Woakes  ,0,6,0,0,0,45,7.5
+1,England vs New Zealand,New Zealand,  Sam Curran  ,1,6,2,0,2,47,7.8
+1,England vs New Zealand,New Zealand,  Mark Wood  ,0,5,0,0,1,55,11
+1,England vs New Zealand,New Zealand,  Moeen Ali  ,0,9.2,0,0,0,60,6.4
+1,England vs New Zealand,New Zealand,  Adil Rashid  ,0,7,0,0,0,47,6.7
+1,England vs New Zealand,New Zealand,  Liam Livingstone  ,0,3,0,0,0,24,8
+2,Pakistan vs Netherlands,Pakistan,  Aryan Dutt  ,1,10,0,0,2,48,4.8
+2,Pakistan vs Netherlands,Pakistan,  van Beek  ,1,6,0,0,1,30,5
+2,Pakistan vs Netherlands,Pakistan,  Ackermann  ,2,8,1,0,0,39,4.9
+2,Pakistan vs Netherlands,Pakistan,  van Meekeren  ,1,6,0,0,2,40,6.7
+2,Pakistan vs Netherlands,Pakistan,  Bas de Leede  ,4,9,0,0,3,62,6.9
+2,Pakistan vs Netherlands,Pakistan,  van der Merwe  ,0,6,0,1,0,36,6
+2,Pakistan vs Netherlands,Pakistan,  Vikramjit Singh  ,0,2,0,0,0,16,8
+2,Pakistan vs Netherlands,Pakistan,  Saqib Zulfiqar  ,0,2,0,0,0,15,7.5
+2,Pakistan vs Netherlands,Netherlands,  Shaheen Afridi  ,1,7,0,0,2,37,5.3
+2,Pakistan vs Netherlands,Netherlands,  Hasan Ali  ,2,7,1,0,4,33,4.7
+2,Pakistan vs Netherlands,Netherlands,  Haris Rauf  ,3,9,0,0,2,43,4.8
+2,Pakistan vs Netherlands,Netherlands,  Iftikhar Ahmed  ,1,3,0,0,0,16,5.3
+2,Pakistan vs Netherlands,Netherlands,  Mohammad Nawaz  ,1,7,0,0,0,31,4.4
+2,Pakistan vs Netherlands,Netherlands,  Shadab Khan  ,1,8,0,0,1,45,5.6
+3,Bangladesh vs Afghanistan,Afghanistan,  Taskin Ahmed  ,1,6,0,0,1,32,5.3
+3,Bangladesh vs Afghanistan,Afghanistan,  Shoriful Islam  ,2,6.2,1,0,2,34,5.4
+3,Bangladesh vs Afghanistan,Afghanistan,  Mustafizur  ,1,7,1,0,0,28,4
+3,Bangladesh vs Afghanistan,Afghanistan,  Shakib (c)  ,3,8,0,0,0,30,3.8
+3,Bangladesh vs Afghanistan,Afghanistan,  Mehidy Hasan Miraz  ,3,9,3,0,5,25,2.8
+3,Bangladesh vs Afghanistan,Afghanistan,  Mahmudullah  ,0,1,0,0,0,7,7
+3,Bangladesh vs Afghanistan,Bangladesh,  Fazalhaq Farooqi  ,1,5,0,0,2,19,3.8
+3,Bangladesh vs Afghanistan,Bangladesh,  Mujeeb Ur Rahman  ,0,7,0,0,0,30,4.3
+3,Bangladesh vs Afghanistan,Bangladesh,  Naveen-ul-Haq  ,1,5.4,0,1,1,31,5.5
+3,Bangladesh vs Afghanistan,Bangladesh,  Rashid Khan  ,0,9,0,0,0,48,5.3
+3,Bangladesh vs Afghanistan,Bangladesh,  Mohammad Nabi  ,0,6,1,0,1,18,3
+3,Bangladesh vs Afghanistan,Bangladesh,  Azmatullah Omarzai  ,1,2,0,0,0,9,4.5
+4,South Africa vs Sri Lanka,South Africa,  Rajitha  ,1,10,1,0,2,90,9
+4,South Africa vs Sri Lanka,South Africa,  Dilshan Madushanka  ,2,10,0,1,3,86,8.6
+4,South Africa vs Sri Lanka,South Africa,  Shanaka (c)  ,0,6,0,0,0,36,6
+4,South Africa vs Sri Lanka,South Africa,  Dhananjaya de Silva  ,0,4,0,0,1,39,9.8
+4,South Africa vs Sri Lanka,South Africa,  Matheesha Pathirana  ,1,10,0,0,13,95,9.5
+4,South Africa vs Sri Lanka,South Africa,  Dunith Wellalage  ,1,10,0,0,2,81,8.1
+4,South Africa vs Sri Lanka,Sri Lanka,  Lungi Ngidi  ,1,8,1,0,2,49,6.1
+4,South Africa vs Sri Lanka,Sri Lanka,  Marco Jansen  ,2,10,0,0,3,92,9.2
+4,South Africa vs Sri Lanka,Sri Lanka,  Kagiso Rabada  ,2,7.5,0,1,2,50,6.4
+4,South Africa vs Sri Lanka,Sri Lanka,  Keshav Maharaj  ,2,10,0,0,6,62,6.2
+4,South Africa vs Sri Lanka,Sri Lanka,  Gerald Coetzee  ,3,9,0,0,1,68,7.6
+5,India vs Australia,Australia,  Bumrah  ,2,10,0,0,4,35,3.5
+5,India vs Australia,Australia,  Siraj  ,1,6.3,1,0,2,26,4
+5,India vs Australia,Australia,  Hardik Pandya  ,1,3,0,0,0,28,9.3
+5,India vs Australia,Australia,  Ashwin  ,1,10,1,0,0,34,3.4
+5,India vs Australia,Australia,  Kuldeep Yadav  ,2,10,0,0,0,42,4.2
+5,India vs Australia,Australia,  Ravindra Jadeja  ,3,10,2,0,0,28,2.8
+5,India vs Australia,India,  Mitchell Starc  ,1,8,0,0,3,31,3.9
+5,India vs Australia,India,  Josh Hazlewood  ,3,9,1,0,1,38,4.2
+5,India vs Australia,India,  Pat Cummins (c)  ,0,6.2,0,1,1,33,5.2
+5,India vs Australia,India,  Glenn Maxwell  ,0,8,0,0,0,33,4.1
+5,India vs Australia,India,  Cameron Green  ,0,2,0,0,0,11,5.5
+5,India vs Australia,India,  Adam Zampa  ,0,8,0,0,0,53,6.6
+6,New Zealand vs Netherlands,New Zealand,  Aryan Dutt  ,2,10,2,0,5,62,6.2
+6,New Zealand vs Netherlands,New Zealand,  Ryan Klein  ,0,7,1,0,3,41,5.9
+6,New Zealand vs Netherlands,New Zealand,  van Meekeren  ,2,9,0,1,0,59,6.6
+6,New Zealand vs Netherlands,New Zealand,  van der Merwe  ,2,9,0,0,0,56,6.2
+6,New Zealand vs Netherlands,New Zealand,  Ackermann  ,0,4,0,0,0,28,7
+6,New Zealand vs Netherlands,New Zealand,  Bas de Leede  ,1,10,0,1,0,64,6.4
+6,New Zealand vs Netherlands,New Zealand,  Vikramjit Singh  ,0,1,0,0,0,9,9
+6,New Zealand vs Netherlands,Netherlands,  Trent Boult  ,0,8,0,0,2,34,4.2
+6,New Zealand vs Netherlands,Netherlands,  Matt Henry  ,3,8.3,0,0,0,40,4.7
+6,New Zealand vs Netherlands,Netherlands,  Mitchell Santner  ,5,10,0,0,0,59,5.9
+6,New Zealand vs Netherlands,Netherlands,  Lockie Ferguson  ,0,8,0,0,0,32,4
+6,New Zealand vs Netherlands,Netherlands,  Rachin Ravindra  ,1,10,0,1,0,46,4.6
+6,New Zealand vs Netherlands,Netherlands,  Glenn Phillips  ,0,2,0,0,0,11,5.5
+7,England vs Bangladesh,England,  Mustafizur  ,0,10,0,0,0,70,7
+7,England vs Bangladesh,England,  Taskin Ahmed  ,1,6,0,0,2,38,6.3
+7,England vs Bangladesh,England,  Shoriful Islam  ,3,10,0,0,1,75,7.5
+7,England vs Bangladesh,England,  Mahedi Hasan  ,4,8,0,0,0,71,8.9
+7,England vs Bangladesh,England,  Shakib (c)  ,1,10,0,0,1,52,5.2
+7,England vs Bangladesh,England,  Mehidy Hasan Miraz  ,0,6,0,0,0,55,9.2
+7,England vs Bangladesh,Bangladesh,  Chris Woakes  ,2,8,0,0,0,49,6.1
+7,England vs Bangladesh,Bangladesh,  Reece Topley  ,4,10,1,0,0,43,4.3
+7,England vs Bangladesh,Bangladesh,  Sam Curran  ,1,7.2,0,0,2,47,6.4
+7,England vs Bangladesh,Bangladesh,  Mark Wood  ,1,10,0,0,1,29,2.9
+7,England vs Bangladesh,Bangladesh,  Adil Rashid  ,1,10,0,0,0,42,4.2
+7,England vs Bangladesh,Bangladesh,  Liam Livingstone  ,1,3,0,0,0,13,4.3
+8,Pakistan vs Sri Lanka,Sri Lanka,  Shaheen Afridi  ,1,9,0,0,4,66,7.3
+8,Pakistan vs Sri Lanka,Sri Lanka,  Hasan Ali  ,4,10,0,1,3,71,7.1
+8,Pakistan vs Sri Lanka,Sri Lanka,  Mohammad Nawaz  ,1,9,0,0,0,62,6.9
+8,Pakistan vs Sri Lanka,Sri Lanka,  Haris Rauf  ,2,10,0,0,1,64,6.4
+8,Pakistan vs Sri Lanka,Sri Lanka,  Shadab Khan  ,1,8,0,0,0,55,6.9
+8,Pakistan vs Sri Lanka,Sri Lanka,  Iftikhar Ahmed  ,0,4,0,0,1,22,5.5
+8,Pakistan vs Sri Lanka,Pakistan,  Maheesh Theekshana  ,1,10,0,0,5,59,5.9
+8,Pakistan vs Sri Lanka,Pakistan,  Dilshan Madushanka  ,2,9.2,0,1,2,60,6.4
+8,Pakistan vs Sri Lanka,Pakistan,  Dasun Shanaka (c)  ,0,5,0,0,0,28,5.6
+8,Pakistan vs Sri Lanka,Pakistan,  Matheesha Pathirana  ,1,9,0,0,18,90,10
+8,Pakistan vs Sri Lanka,Pakistan,  Dunith Wellalage  ,0,10,0,0,0,62,6.2
+8,Pakistan vs Sri Lanka,Pakistan,  Dhananjaya de Silva  ,0,4,0,0,0,36,9
+8,Pakistan vs Sri Lanka,Pakistan,  Charith Asalanka  ,0,1,0,0,0,10,10
+9,India vs Afghanistan,Afghanistan,  Bumrah  ,4,10,0,0,3,39,3.9
+9,India vs Afghanistan,Afghanistan,  Siraj  ,0,9,0,0,1,76,8.4
+9,India vs Afghanistan,Afghanistan,  Hardik Pandya  ,2,7,0,0,3,43,6.1
+9,India vs Afghanistan,Afghanistan,  Thakur  ,1,6,0,1,1,31,5.2
+9,India vs Afghanistan,Afghanistan,  Kuldeep Yadav  ,1,10,0,0,0,40,4
+9,India vs Afghanistan,Afghanistan,  Ravindra Jadeja  ,0,8,0,1,0,38,4.8
+9,India vs Afghanistan,India,  Fazalhaq Farooqi  ,0,6,0,0,1,50,8.3
+9,India vs Afghanistan,India,  Mujeeb Ur Rahman  ,0,8,0,0,7,64,8
+9,India vs Afghanistan,India,  Naveen-ul-Haq  ,0,5,0,0,0,31,6.2
+9,India vs Afghanistan,India,  Azmatullah Omarzai  ,0,4,0,0,1,34,8.5
+9,India vs Afghanistan,India,  Mohammad Nabi  ,0,4,0,0,0,32,8
+9,India vs Afghanistan,India,  Rashid Khan  ,2,8,0,0,1,57,7.1
+10,Australia vs South Africa,South Africa,  Starc  ,2,9,1,0,1,53,5.9
+10,Australia vs South Africa,South Africa,  Hazlewood  ,1,9,0,0,3,60,6.7
+10,Australia vs South Africa,South Africa,  Maxwell  ,2,10,1,0,2,34,3.4
+10,Australia vs South Africa,South Africa,  Cummins (c)  ,1,9,0,0,0,71,7.9
+10,Australia vs South Africa,South Africa,  Zampa  ,1,10,0,0,1,70,7
+10,Australia vs South Africa,South Africa,  Mitchell Marsh  ,0,1,0,0,0,6,6
+10,Australia vs South Africa,South Africa,  Stoinis  ,0,2,0,0,0,11,5.5
+10,Australia vs South Africa,Australia,  Lungi Ngidi  ,1,8,2,0,1,18,2.2
+10,Australia vs South Africa,Australia,  Marco Jansen  ,2,7,0,1,7,54,7.7
+10,Australia vs South Africa,Australia,  Kagiso Rabada  ,3,8,1,1,1,33,4.1
+10,Australia vs South Africa,Australia,  Keshav Maharaj  ,2,10,0,0,2,30,3
+10,Australia vs South Africa,Australia,  Tabraiz Shamsi  ,2,7.5,0,0,0,38,4.9
+11,New Zealand vs Bangladesh,Bangladesh,  Boult  ,2,10,0,0,2,45,4.5
+11,New Zealand vs Bangladesh,Bangladesh,  Matt Henry  ,2,10,0,1,0,58,5.8
+11,New Zealand vs Bangladesh,Bangladesh,  Lockie Ferguson  ,3,10,0,2,2,49,4.9
+11,New Zealand vs Bangladesh,Bangladesh,  Santner  ,1,10,1,0,0,31,3.1
+11,New Zealand vs Bangladesh,Bangladesh,  Glenn Phillips  ,1,2,0,1,0,13,6.5
+11,New Zealand vs Bangladesh,Bangladesh,  Rachin Ravindra  ,0,7,0,0,0,37,5.3
+11,New Zealand vs Bangladesh,Bangladesh,  Daryl Mitchell  ,0,1,0,0,0,11,11
+11,New Zealand vs Bangladesh,New Zealand,  Mustafizur Rahman  ,1,8,0,0,3,36,4.5
+11,New Zealand vs Bangladesh,New Zealand,  Shoriful Islam  ,0,7.5,1,0,3,43,5.5
+11,New Zealand vs Bangladesh,New Zealand,  Taskin Ahmed  ,0,8,0,0,3,56,7
+11,New Zealand vs Bangladesh,New Zealand,  Shakib Al Hasan (c)  ,1,10,0,0,0,54,5.4
+11,New Zealand vs Bangladesh,New Zealand,  Mehidy Hasan Miraz  ,0,9,0,0,1,58,6.4
+12,India vs Pakistan,Pakistan,  Bumrah  ,2,7,1,0,1,19,2.7
+12,India vs Pakistan,Pakistan,  Siraj  ,2,8,0,0,0,50,6.2
+12,India vs Pakistan,Pakistan,  Hardik Pandya  ,2,6,0,0,0,34,5.7
+12,India vs Pakistan,Pakistan,  Kuldeep Yadav  ,2,10,0,0,0,35,3.5
+12,India vs Pakistan,Pakistan,  Ravindra Jadeja  ,2,9.5,0,0,0,38,3.9
+12,India vs Pakistan,Pakistan,  Thakur  ,0,2,0,0,0,12,6
+12,India vs Pakistan,India,  Shaheen Afridi  ,2,6,0,0,1,36,6
+12,India vs Pakistan,India,  Hasan Ali  ,1,6,0,0,0,34,5.7
+12,India vs Pakistan,India,  Mohammad Nawaz  ,0,8.3,0,0,0,47,5.5
+12,India vs Pakistan,India,  Haris Rauf  ,0,6,0,0,0,43,7.2
+12,India vs Pakistan,India,  Shadab Khan  ,0,4,0,0,0,31,7.8
+13,England vs Afghanistan,Afghanistan,  Chris Woakes  ,0,4,0,0,7,41,10.2
+13,England vs Afghanistan,Afghanistan,  R Topley  ,1,8.5,1,1,3,52,5.9
+13,England vs Afghanistan,Afghanistan,  Sam Curran  ,0,4,0,2,0,46,11.5
+13,England vs Afghanistan,Afghanistan,  Adil Rashid  ,3,10,1,0,1,42,4.2
+13,England vs Afghanistan,Afghanistan,  Mark Wood  ,2,9,0,0,0,50,5.6
+13,England vs Afghanistan,Afghanistan,  Livingstone  ,1,10,0,0,0,33,3.3
+13,England vs Afghanistan,Afghanistan,  Root  ,1,4,0,0,0,19,4.8
+13,England vs Afghanistan,England,  Mujeeb Ur Rahman  ,3,10,1,0,5,51,5.1
+13,England vs Afghanistan,England,  Fazalhaq Farooqi  ,1,7,0,0,2,50,7.1
+13,England vs Afghanistan,England,  Naveen-ul-Haq  ,1,6,1,1,0,44,7.3
+13,England vs Afghanistan,England,  Mohammad Nabi  ,2,6,0,0,1,16,2.7
+13,England vs Afghanistan,England,  Rashid Khan  ,3,9.3,1,0,0,37,3.9
+13,England vs Afghanistan,England,  Azmatullah Omarzai  ,0,2,0,0,0,13,6.5
+14,Australia vs Sri Lanka,Sri Lanka,  Starc  ,2,10,0,0,4,43,4.3
+14,Australia vs Sri Lanka,Sri Lanka,  Hazlewood  ,0,7,1,0,1,36,5.1
+14,Australia vs Sri Lanka,Sri Lanka,  Cummins (c)  ,2,7,0,0,1,32,4.6
+14,Australia vs Sri Lanka,Sri Lanka,  Maxwell  ,1,9.3,0,0,1,36,3.8
+14,Australia vs Sri Lanka,Sri Lanka,  Zampa  ,4,8,1,0,2,47,5.9
+14,Australia vs Sri Lanka,Sri Lanka,  Stoinis  ,0,2,0,0,0,11,5.5
+14,Australia vs Sri Lanka,Australia,  Lahiru Kumara  ,0,4,0,0,0,47,11.8
+14,Australia vs Sri Lanka,Australia,  Dilshan Madushanka  ,3,9,2,0,1,38,4.2
+14,Australia vs Sri Lanka,Australia,  Maheesh Theekshana  ,0,7,0,0,0,49,7
+14,Australia vs Sri Lanka,Australia,  Dunith Wellalage  ,1,9.2,0,0,0,53,5.7
+14,Australia vs Sri Lanka,Australia,  Chamika Karunaratne  ,0,3,0,0,2,15,5
+14,Australia vs Sri Lanka,Australia,  Dhananjaya de Silva  ,0,3,0,0,0,13,4.3
+15,South Africa vs Netherlands,Netherlands,  Lungi Ngidi  ,2,9,1,1,10,57,6.3
+15,South Africa vs Netherlands,Netherlands,  Marco Jansen  ,2,8,1,0,6,27,3.4
+15,South Africa vs Netherlands,Netherlands,  Rabada  ,2,9,1,0,3,56,6.2
+15,South Africa vs Netherlands,Netherlands,  Gerald Coetzee  ,1,8,0,0,2,57,7.1
+15,South Africa vs Netherlands,Netherlands,  Maharaj  ,1,9,0,0,0,38,4.2
+15,South Africa vs Netherlands,South Africa,  Aryan Dutt  ,0,5,1,0,0,19,3.8
+15,South Africa vs Netherlands,South Africa,  Logan van Beek  ,3,8.5,0,1,1,60,6.8
+15,South Africa vs Netherlands,South Africa,  Colin Ackermann  ,1,3,0,0,0,16,5.3
+15,South Africa vs Netherlands,South Africa,  Paul van Meekeren  ,2,9,0,0,0,40,4.4
+15,South Africa vs Netherlands,South Africa,  Roelof van der Merwe  ,2,9,0,0,0,34,3.8
+15,South Africa vs Netherlands,South Africa,  Bas de Leede  ,2,8,0,0,4,36,4.5
+16,New Zealand vs Afghanistan,New Zealand,  Mujeeb  ,1,10,0,0,1,57,5.7
+16,New Zealand vs Afghanistan,New Zealand,  Fazalhaq Farooqi  ,0,7,1,0,2,39,5.6
+16,New Zealand vs Afghanistan,New Zealand,  Naveen-ul-Haq  ,2,8,0,0,0,48,6
+16,New Zealand vs Afghanistan,New Zealand,  Nabi  ,0,8,1,0,0,41,5.1
+16,New Zealand vs Afghanistan,New Zealand,  Rashid Khan  ,1,10,0,0,2,43,4.3
+16,New Zealand vs Afghanistan,New Zealand,  Azmatullah  ,2,7,0,1,0,56,8
+16,New Zealand vs Afghanistan,Afghanistan,  Trent Boult  ,2,7,1,0,2,18,2.6
+16,New Zealand vs Afghanistan,Afghanistan,  Matt Henry  ,1,5,2,0,0,16,3.2
+16,New Zealand vs Afghanistan,Afghanistan,  Mitchell Santner  ,3,7.4,0,0,1,39,5.1
+16,New Zealand vs Afghanistan,Afghanistan,  Lockie Ferguson  ,3,7,1,0,1,19,2.7
+16,New Zealand vs Afghanistan,Afghanistan,  Glenn Phillips  ,0,3,0,0,1,13,4.3
+16,New Zealand vs Afghanistan,Afghanistan,  Rachin Ravindra  ,1,5,0,0,0,34,6.8
+17,India vs Bangladesh,Bangladesh,  Bumrah  ,2,10,1,0,1,41,4.1
+17,India vs Bangladesh,Bangladesh,  Siraj  ,2,10,0,0,3,60,6
+17,India vs Bangladesh,Bangladesh,  Hardik Pandya  ,0,0.3,0,0,0,8,16
+17,India vs Bangladesh,Bangladesh,  Kohli  ,0,0.3,0,0,0,2,4
+17,India vs Bangladesh,Bangladesh,  Thakur  ,1,9,0,0,0,59,6.6
+17,India vs Bangladesh,Bangladesh,  Kuldeep Yadav  ,1,10,0,0,1,47,4.7
+17,India vs Bangladesh,Bangladesh,  Ravindra Jadeja  ,2,10,0,0,0,38,3.8
+17,India vs Bangladesh,India,  Shoriful Islam  ,0,8,0,0,0,54,6.8
+17,India vs Bangladesh,India,  Mustafizur Rahman  ,0,5,0,0,0,29,5.8
+17,India vs Bangladesh,India,  Nasum Ahmed  ,0,9.3,0,0,0,60,6.3
+17,India vs Bangladesh,India,  Hasan Mahmud  ,1,8,0,2,1,65,8.1
+17,India vs Bangladesh,India,  Mehidy Hasan Miraz  ,2,10,0,0,1,47,4.7
+17,India vs Bangladesh,India,  Mahmudullah  ,0,1,0,0,0,6,6
+18,Australia vs Pakistan,Australia,  Shaheen Afridi  ,5,10,1,0,3,54,5.4
+18,Australia vs Pakistan,Australia,  Hasan Ali  ,0,8,0,0,4,57,7.1
+18,Australia vs Pakistan,Australia,  Iftikhar Ahmed  ,0,8,0,0,2,37,4.6
+18,Australia vs Pakistan,Australia,  Haris Rauf  ,3,8,0,0,3,83,10.4
+18,Australia vs Pakistan,Australia,  Usama Mir  ,1,9,0,0,2,82,9.1
+18,Australia vs Pakistan,Australia,  Mohammad Nawaz  ,0,7,0,0,0,43,6.1
+18,Australia vs Pakistan,Pakistan,  Mitchell Starc  ,1,8,0,0,6,65,8.1
+18,Australia vs Pakistan,Pakistan,  Josh Hazlewood  ,1,10,1,0,1,37,3.7
+18,Australia vs Pakistan,Pakistan,  Pat Cummins (c)  ,2,7.3,0,0,0,62,8.3
+18,Australia vs Pakistan,Pakistan,  Adam Zampa  ,4,10,0,0,1,53,5.3
+18,Australia vs Pakistan,Pakistan,  Glenn Maxwell  ,0,5,0,0,0,40,8
+18,Australia vs Pakistan,Pakistan,  Marcus Stoinis  ,2,5,0,0,3,40,8
+19,Netherlands vs Sri Lanka,Netherlands,  Dilshan Madushanka  ,4,9.4,1,1,3,49,5.1
+19,Netherlands vs Sri Lanka,Netherlands,  Rajitha  ,4,9,0,0,7,50,5.6
+19,Netherlands vs Sri Lanka,Netherlands,  C Karunaratne  ,0,9,1,0,10,58,6.4
+19,Netherlands vs Sri Lanka,Netherlands,  M Theekshana  ,1,10,0,0,3,44,4.4
+19,Netherlands vs Sri Lanka,Netherlands,  Dushan Hemantha  ,0,8,0,0,0,42,5.2
+19,Netherlands vs Sri Lanka,Netherlands,  Dhananjaya de Silva  ,0,4,0,0,3,13,3.2
+19,Netherlands vs Sri Lanka,Sri Lanka,  Aryan Dutt  ,3,10,0,0,2,44,4.4
+19,Netherlands vs Sri Lanka,Sri Lanka,  Logan van Beek  ,0,10,0,0,0,57,5.7
+19,Netherlands vs Sri Lanka,Sri Lanka,  Paul van Meekeren  ,1,8,1,0,6,39,4.9
+19,Netherlands vs Sri Lanka,Sri Lanka,  Bas de Leede  ,0,3,0,0,2,29,9.7
+19,Netherlands vs Sri Lanka,Sri Lanka,  Roelof van der Merwe  ,0,9,0,0,1,42,4.7
+19,Netherlands vs Sri Lanka,Sri Lanka,  Colin Ackermann  ,1,8.2,0,0,0,39,4.7
+20,England vs South Africa,South Africa,  R Topley  ,3,8.5,0,0,4,88,10
+20,England vs South Africa,South Africa,  Willey  ,0,9,1,1,3,61,6.8
+20,England vs South Africa,South Africa,  Root  ,0,6.1,0,0,0,48,7.8
+20,England vs South Africa,South Africa,  Gus Atkinson  ,2,9,0,0,1,60,6.7
+20,England vs South Africa,South Africa,  Mark Wood  ,0,7,0,0,1,76,10.9
+20,England vs South Africa,South Africa,  Adil Rashid  ,2,10,0,0,0,61,6.1
+20,England vs South Africa,England,  Lungi Ngidi  ,2,5,1,0,3,26,5.2
+20,England vs South Africa,England,  Marco Jansen  ,2,5,0,0,1,35,7
+20,England vs South Africa,England,  Kagiso Rabada  ,1,6,1,1,0,38,6.3
+20,England vs South Africa,England,  Gerald Coetzee  ,3,4,0,0,1,35,8.8
+20,England vs South Africa,England,  Keshav Maharaj  ,1,2,0,0,0,27,13.5
+21,India vs New Zealand,New Zealand,  Bumrah  ,1,10,1,0,0,45,4.5
+21,India vs New Zealand,New Zealand,  Siraj  ,1,10,1,0,4,45,4.5
+21,India vs New Zealand,New Zealand,  Shami  ,5,10,0,0,0,54,5.4
+21,India vs New Zealand,New Zealand,  Ravindra Jadeja  ,0,10,0,0,0,48,4.8
+21,India vs New Zealand,New Zealand,  Kuldeep Yadav  ,2,10,0,0,3,73,7.3
+21,India vs New Zealand,India,  Trent Boult  ,1,10,0,0,1,60,6
+21,India vs New Zealand,India,  Matt Henry  ,1,9,0,0,0,55,6.1
+21,India vs New Zealand,India,  Mitchell Santner  ,1,10,0,0,0,37,3.7
+21,India vs New Zealand,India,  Lockie Ferguson  ,2,8,0,0,2,63,7.9
+21,India vs New Zealand,India,  Rachin Ravindra  ,0,9,0,0,1,46,5.1
+21,India vs New Zealand,India,  Glenn Phillips  ,0,2,0,0,0,12,6
+22,Pakistan vs Afghanistan,Pakistan,  Naveen-ul-Haq  ,2,7,0,0,3,52,7.4
+22,Pakistan vs Afghanistan,Pakistan,  Mujeeb  ,0,8,0,0,0,55,6.9
+22,Pakistan vs Afghanistan,Pakistan,  Nabi  ,1,10,0,0,0,31,3.1
+22,Pakistan vs Afghanistan,Pakistan,  Azmatullah  ,1,5,0,0,3,50,10
+22,Pakistan vs Afghanistan,Pakistan,  Rashid Khan  ,0,10,0,0,0,41,4.1
+22,Pakistan vs Afghanistan,Pakistan,  Noor Ahmad  ,3,10,0,1,6,49,4.9
+22,Pakistan vs Afghanistan,Afghanistan,  Shaheen Afridi  ,1,10,0,0,2,58,5.8
+22,Pakistan vs Afghanistan,Afghanistan,  Hasan Ali  ,1,10,1,0,1,44,4.4
+22,Pakistan vs Afghanistan,Afghanistan,  Haris Rauf  ,0,8,1,0,3,53,6.6
+22,Pakistan vs Afghanistan,Afghanistan,  Usama Mir  ,0,8,0,1,2,55,6.9
+22,Pakistan vs Afghanistan,Afghanistan,  Shadab Khan  ,0,8,0,0,0,49,6.1
+22,Pakistan vs Afghanistan,Afghanistan,  Iftikhar Ahmed  ,0,5,0,0,0,27,5.4
+23,South Africa vs Bangladesh,South Africa,  Mustafizur  ,0,9,0,0,2,76,8.4
+23,South Africa vs Bangladesh,South Africa,  Mehidy Hasan Miraz  ,1,9,0,0,2,44,4.9
+23,South Africa vs Bangladesh,South Africa,  Shoriful Islam  ,1,9,0,0,0,76,8.4
+23,South Africa vs Bangladesh,South Africa,  Shakib (c)  ,1,9,0,0,1,69,7.7
+23,South Africa vs Bangladesh,South Africa,  Hasan Mahmud  ,2,6,0,0,1,67,11.2
+23,South Africa vs Bangladesh,South Africa,  Nasum Ahmed  ,0,5,0,0,0,27,5.4
+23,South Africa vs Bangladesh,South Africa,  Mahmudullah  ,0,3,0,0,1,20,6.7
+23,South Africa vs Bangladesh,Bangladesh,  Marco Jansen  ,2,8,0,0,5,39,4.9
+23,South Africa vs Bangladesh,Bangladesh,  Lizaad Williams  ,2,8.4,1,0,6,56,6.5
+23,South Africa vs Bangladesh,Bangladesh,  Gerald Coetzee  ,3,10,0,1,1,62,6.2
+23,South Africa vs Bangladesh,Bangladesh,  Kagiso Rabada  ,2,10,1,1,0,42,4.2
+23,South Africa vs Bangladesh,Bangladesh,  Keshav Maharaj  ,1,10,0,0,1,32,3.2
+24,Australia vs Netherlands,Australia,  Aryan Dutt  ,1,7,0,0,0,59,8.4
+24,Australia vs Netherlands,Australia,  Ackermann  ,0,4,0,0,0,19,4.8
+24,Australia vs Netherlands,Australia,  van Beek  ,4,10,0,0,5,74,7.4
+24,Australia vs Netherlands,Australia,  van Meekeren  ,0,10,0,0,3,64,6.4
+24,Australia vs Netherlands,Australia,  Vikramjit Singh  ,0,4,0,0,1,27,6.8
+24,Australia vs Netherlands,Australia,  van der Merwe  ,0,5,0,0,1,41,8.2
+24,Australia vs Netherlands,Australia,  Bas de Leede  ,2,10,0,1,1,115,11.5
+24,Australia vs Netherlands,Netherlands,  Mitchell Starc  ,1,4,0,0,2,22,5.5
+24,Australia vs Netherlands,Netherlands,  Josh Hazlewood  ,1,6,0,0,2,27,4.5
+24,Australia vs Netherlands,Netherlands,  Pat Cummins (c)  ,1,4,0,0,0,14,3.5
+24,Australia vs Netherlands,Netherlands,  Mitchell Marsh  ,2,4,0,0,3,19,4.8
+24,Australia vs Netherlands,Netherlands,  Adam Zampa  ,4,3,0,0,0,8,2.7
+25,England vs Sri Lanka,England,  Dilshan Madushanka  ,0,5,0,0,0,37,7.4
+25,England vs Sri Lanka,England,  Rajitha  ,2,7,0,0,1,36,5.1
+25,England vs Sri Lanka,England,  M Theekshana  ,1,8.2,1,0,3,21,2.5
+25,England vs Sri Lanka,England,  Mathews  ,2,5,1,0,0,14,2.8
+25,England vs Sri Lanka,England,  Lahiru Kumara  ,3,7,0,0,0,35,5
+25,England vs Sri Lanka,England,  Dhananjaya de Silva  ,0,1,0,0,0,10,10
+25,England vs Sri Lanka,Sri Lanka,  Chris Woakes  ,0,6,0,0,2,30,5
+25,England vs Sri Lanka,Sri Lanka,  David Willey  ,2,5,0,0,1,30,6
+25,England vs Sri Lanka,Sri Lanka,  Adil Rashid  ,0,4.4,0,0,0,39,8.4
+25,England vs Sri Lanka,Sri Lanka,  Mark Wood  ,0,4,0,0,0,23,5.8
+25,England vs Sri Lanka,Sri Lanka,  Liam Livingstone  ,0,3,0,0,0,17,5.7
+25,England vs Sri Lanka,Sri Lanka,  Moeen Ali  ,0,3,0,0,0,21,7
+26,Pakistan vs South Africa,Pakistan,  Marco Jansen  ,3,9,1,2,6,43,4.8
+26,Pakistan vs South Africa,Pakistan,  Lungi Ngidi  ,1,7.4,0,0,3,45,5.9
+26,Pakistan vs South Africa,Pakistan,  Markram  ,0,4,0,0,0,20,5
+26,Pakistan vs South Africa,Pakistan,  Maharaj  ,0,9,0,0,0,56,6.2
+26,Pakistan vs South Africa,Pakistan,  Gerald Coetzee  ,2,7,0,0,1,42,6
+26,Pakistan vs South Africa,Pakistan,  Shamsi  ,4,10,0,2,1,60,6
+26,Pakistan vs South Africa,South Africa,  Iftikhar Ahmed  ,0,3,0,0,5,23,7.7
+26,Pakistan vs South Africa,South Africa,  Shaheen Afridi  ,3,10,0,0,3,45,4.5
+26,Pakistan vs South Africa,South Africa,  Mohammad Nawaz  ,0,6.2,0,0,0,40,6.3
+26,Pakistan vs South Africa,South Africa,  Haris Rauf  ,2,10,0,0,2,62,6.2
+26,Pakistan vs South Africa,South Africa,  Mohammad Wasim Jr  ,2,10,1,0,4,50,5
+26,Pakistan vs South Africa,South Africa,  Usama Mir  ,2,8,0,0,1,45,5.6
+27,Australia vs New Zealand,Australia,  Matt Henry  ,1,6.2,0,2,2,67,10.6
+27,Australia vs New Zealand,Australia,  Boult  ,3,10,0,0,3,77,7.7
+27,Australia vs New Zealand,Australia,  Lockie Ferguson  ,0,3,0,0,0,38,12.7
+27,Australia vs New Zealand,Australia,  Santner  ,2,10,0,0,1,80,8
+27,Australia vs New Zealand,Australia,  Glenn Phillips  ,3,10,0,0,0,37,3.7
+27,Australia vs New Zealand,Australia,  Rachin Ravindra  ,0,8,0,0,0,56,7
+27,Australia vs New Zealand,Australia,  Neesham  ,1,2,0,0,0,32,16
+27,Australia vs New Zealand,New Zealand,  Mitchell Starc  ,0,9,0,0,17,89,9.9
+27,Australia vs New Zealand,New Zealand,  Josh Hazlewood  ,2,9,0,0,1,70,7.8
+27,Australia vs New Zealand,New Zealand,  Pat Cummins (c)  ,2,10,0,0,3,66,6.6
+27,Australia vs New Zealand,New Zealand,  Glenn Maxwell  ,1,10,0,0,0,62,6.2
+27,Australia vs New Zealand,New Zealand,  Adam Zampa  ,3,10,0,0,0,74,7.4
+27,Australia vs New Zealand,New Zealand,  Mitchell Marsh  ,0,2,0,0,1,18,9
+28,Netherlands vs Bangladesh,Netherlands,  Shoriful Islam  ,2,10,0,0,3,51,5.1
+28,Netherlands vs Bangladesh,Netherlands,  Taskin Ahmed  ,2,9,1,0,1,43,4.8
+28,Netherlands vs Bangladesh,Netherlands,  Shakib (c)  ,1,10,1,0,0,37,3.7
+28,Netherlands vs Bangladesh,Netherlands,  Mehidy Hasan Miraz  ,0,4,0,0,0,17,4.2
+28,Netherlands vs Bangladesh,Netherlands,  Mustafizur  ,2,10,1,0,1,36,3.6
+28,Netherlands vs Bangladesh,Netherlands,  Mahedi Hasan  ,2,7,0,0,2,40,5.7
+28,Netherlands vs Bangladesh,Bangladesh,  Aryan Dutt  ,1,10,3,0,0,26,2.6
+28,Netherlands vs Bangladesh,Bangladesh,  Logan van Beek  ,1,9,1,0,4,30,3.3
+28,Netherlands vs Bangladesh,Bangladesh,  Colin Ackermann  ,1,7,1,0,0,25,3.6
+28,Netherlands vs Bangladesh,Bangladesh,  Paul van Meekeren  ,4,7.2,0,0,2,23,3.1
+28,Netherlands vs Bangladesh,Bangladesh,  Bas de Leede  ,2,7,0,0,0,25,3.6
+28,Netherlands vs Bangladesh,Bangladesh,  Shariz Ahmad  ,0,2,0,0,0,13,6.5
+29,India vs England,India,  Willey  ,3,10,2,0,0,45,4.5
+29,India vs England,India,  Chris Woakes  ,2,9,1,0,1,33,3.7
+29,India vs England,India,  Adil Rashid  ,2,10,0,0,0,35,3.5
+29,India vs England,India,  Mark Wood  ,1,9,1,0,2,46,5.1
+29,India vs England,India,  Livingstone  ,0,4,1,0,0,29,7.2
+29,India vs England,India,  Moeen  ,0,8,0,0,0,37,4.6
+29,India vs England,England,  Jasprit Bumrah  ,3,6.5,1,0,2,32,4.7
+29,India vs England,England,  Mohammed Siraj  ,0,6,0,0,2,33,5.5
+29,India vs England,England,  Mohammed Shami  ,4,7,2,0,2,22,3.1
+29,India vs England,England,  Kuldeep Yadav  ,2,8,0,0,0,24,3
+29,India vs England,England,  Ravindra Jadeja  ,1,7,1,0,0,16,2.3
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Mujeeb  ,2,10,0,0,0,38,3.8
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Fazalhaq Farooqi  ,4,10,1,0,0,34,3.4
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Naveen-ul-Haq  ,0,6.3,0,0,2,47,7.2
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Azmatullah  ,1,7,0,0,1,37,5.3
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Rashid Khan  ,1,10,0,0,6,50,5
+30,Afghanistan vs Sri Lanka,Sri Lanka,  Nabi  ,0,6,0,0,0,33,5.5
+30,Afghanistan vs Sri Lanka,Afghanistan,  Dilshan Madushanka  ,2,9,0,0,3,48,5.3
+30,Afghanistan vs Sri Lanka,Afghanistan,  Kasun Rajitha  ,1,10,0,0,2,48,4.8
+30,Afghanistan vs Sri Lanka,Afghanistan,  Angelo Mathews  ,0,3,0,0,0,18,6
+30,Afghanistan vs Sri Lanka,Afghanistan,  Dushmantha Chameera  ,0,9.2,0,0,0,51,5.5
+30,Afghanistan vs Sri Lanka,Afghanistan,  Maheesh Theekshana  ,0,10,0,0,4,55,5.5
+30,Afghanistan vs Sri Lanka,Afghanistan,  Dhananjaya de Silva  ,0,4,0,0,0,21,5.2
+31,Pakistan vs Bangladesh,Bangladesh,  Shaheen Afridi  ,3,9,1,0,2,23,2.6
+31,Pakistan vs Bangladesh,Bangladesh,  Iftikhar Ahmed  ,1,10,0,0,0,44,4.4
+31,Pakistan vs Bangladesh,Bangladesh,  Haris Rauf  ,2,8,0,0,2,36,4.5
+31,Pakistan vs Bangladesh,Bangladesh,  Mohammad Wasim Jr  ,3,8.1,1,0,0,31,3.8
+31,Pakistan vs Bangladesh,Bangladesh,  Usama Mir  ,1,10,0,0,1,66,6.6
+31,Pakistan vs Bangladesh,Pakistan,  Taskin Ahmed  ,0,6,1,0,0,36,6
+31,Pakistan vs Bangladesh,Pakistan,  Shoriful Islam  ,0,4,1,0,1,25,6.2
+31,Pakistan vs Bangladesh,Pakistan,  Mehidy Hasan Miraz  ,3,9,0,0,0,60,6.7
+31,Pakistan vs Bangladesh,Pakistan,  Mustafizur Rahman  ,0,7,0,0,1,47,6.7
+31,Pakistan vs Bangladesh,Pakistan,  Shakib Al Hasan (c)  ,0,5.3,0,0,0,30,5.5
+31,Pakistan vs Bangladesh,Pakistan,  Najmul Hossain Shanto  ,0,1,0,0,0,5,5
+32,New Zealand vs South Africa,South Africa,  Boult  ,1,10,1,0,2,49,4.9
+32,New Zealand vs South Africa,South Africa,  Matt Henry  ,0,5.3,0,0,1,31,5.6
+32,New Zealand vs South Africa,South Africa,  Southee  ,2,10,0,0,1,77,7.7
+32,New Zealand vs South Africa,South Africa,  Santner  ,0,10,0,0,2,58,5.8
+32,New Zealand vs South Africa,South Africa,  Glenn Phillips  ,0,7,0,0,2,52,7.4
+32,New Zealand vs South Africa,South Africa,  Rachin Ravindra  ,0,2,0,0,0,17,8.5
+32,New Zealand vs South Africa,South Africa,  Neesham  ,1,5.3,0,0,0,69,12.5
+32,New Zealand vs South Africa,New Zealand,  Marco Jansen  ,3,8,1,1,1,31,3.9
+32,New Zealand vs South Africa,New Zealand,  Lungi Ngidi  ,0,6,1,0,0,28,4.7
+32,New Zealand vs South Africa,New Zealand,  Kagiso Rabada  ,1,6,2,0,0,16,2.7
+32,New Zealand vs South Africa,New Zealand,  Gerald Coetzee  ,2,6.3,0,0,5,41,6.3
+32,New Zealand vs South Africa,New Zealand,  Keshav Maharaj  ,4,9,0,0,0,46,5.1
+33,India vs Sri Lanka,India,  Dilshan Madushanka  ,5,10,0,0,6,80,8
+33,India vs Sri Lanka,India,  Chameera  ,1,10,2,0,0,71,7.1
+33,India vs Sri Lanka,India,  Rajitha  ,0,9,0,0,1,66,7.3
+33,India vs Sri Lanka,India,  Mathews  ,0,3,0,0,0,11,3.7
+33,India vs Sri Lanka,India,  M Theekshana  ,0,10,0,0,1,67,6.7
+33,India vs Sri Lanka,India,  Dushan Hemantha  ,0,8,0,1,0,52,6.5
+33,India vs Sri Lanka,Sri Lanka,  Jasprit Bumrah  ,1,5,1,0,3,8,1.6
+33,India vs Sri Lanka,Sri Lanka,  Mohammed Siraj  ,3,7,2,0,1,16,2.3
+33,India vs Sri Lanka,Sri Lanka,  Mohammed Shami  ,5,5,1,0,0,18,3.6
+33,India vs Sri Lanka,Sri Lanka,  Kuldeep Yadav  ,0,2,0,0,0,3,1.5
+33,India vs Sri Lanka,Sri Lanka,  Ravindra Jadeja  ,1,0.4,0,0,0,4,6
+34,Netherlands vs Afghanistan,Netherlands,  Mujeeb  ,1,10,0,0,5,40,4
+34,Netherlands vs Afghanistan,Netherlands,  Fazalhaq Farooqi  ,0,5,0,0,2,36,7.2
+34,Netherlands vs Afghanistan,Netherlands,  Azmatullah  ,0,3,0,0,0,11,3.7
+34,Netherlands vs Afghanistan,Netherlands,  Nabi  ,3,9.3,1,0,1,28,2.9
+34,Netherlands vs Afghanistan,Netherlands,  Rashid Khan  ,0,10,0,0,3,31,3.1
+34,Netherlands vs Afghanistan,Netherlands,  Noor Ahmad  ,2,9,0,0,3,31,3.4
+34,Netherlands vs Afghanistan,Afghanistan,  Aryan Dutt  ,0,8.3,0,0,3,49,5.8
+34,Netherlands vs Afghanistan,Afghanistan,  Logan van Beek  ,1,7,0,0,2,30,4.3
+34,Netherlands vs Afghanistan,Afghanistan,  Paul van Meekeren  ,0,5,0,1,1,35,7
+34,Netherlands vs Afghanistan,Afghanistan,  Roelof van der Merwe  ,1,5,0,0,0,27,5.4
+34,Netherlands vs Afghanistan,Afghanistan,  Saqib Zulfiqar  ,1,3,0,1,0,25,8.3
+34,Netherlands vs Afghanistan,Afghanistan,  Colin Ackermann  ,0,3,0,0,1,12,4
+35,New Zealand vs Pakistan,New Zealand,  Shaheen Afridi  ,0,10,0,0,5,90,9
+35,New Zealand vs Pakistan,New Zealand,  Hasan Ali  ,1,10,0,1,2,82,8.2
+35,New Zealand vs Pakistan,New Zealand,  Iftikhar Ahmed  ,1,8,0,0,0,55,6.9
+35,New Zealand vs Pakistan,New Zealand,  Haris Rauf  ,1,10,0,0,2,85,8.5
+35,New Zealand vs Pakistan,New Zealand,  Mohammad Wasim Jr  ,3,10,0,0,7,60,6
+35,New Zealand vs Pakistan,New Zealand,  Agha Salman  ,0,2,0,0,1,21,10.5
+35,New Zealand vs Pakistan,Pakistan,  Trent Boult  ,0,6,0,0,2,50,8.3
+35,New Zealand vs Pakistan,Pakistan,  Tim Southee  ,1,5,0,0,0,27,5.4
+35,New Zealand vs Pakistan,Pakistan,  Mitchell Santner  ,0,5,0,0,0,35,7
+35,New Zealand vs Pakistan,Pakistan,  Glenn Phillips  ,0,5,1,0,0,42,8.4
+35,New Zealand vs Pakistan,Pakistan,  Ish Sodhi  ,0,4,0,0,1,44,11
+35,New Zealand vs Pakistan,Pakistan,  Daryl Mitchell  ,0,0.3,0,0,0,1,2
+36,England vs Australia,Australia,  Willey  ,1,10,1,0,1,48,4.8
+36,England vs Australia,Australia,  Chris Woakes  ,4,9.3,0,0,0,54,5.7
+36,England vs Australia,Australia,  Mark Wood  ,2,10,0,0,3,70,7
+36,England vs Australia,Australia,  Livingstone  ,1,6,0,0,0,42,7
+36,England vs Australia,Australia,  Moeen  ,0,4,0,0,0,28,7
+36,England vs Australia,Australia,  Adil Rashid  ,2,10,0,0,0,38,3.8
+36,England vs Australia,England,  Mitchell Starc  ,2,10,0,0,4,66,6.6
+36,England vs Australia,England,  Josh Hazlewood  ,2,9.1,1,0,2,49,5.3
+36,England vs Australia,England,  Pat Cummins (c)  ,2,10,1,0,0,49,4.9
+36,England vs Australia,England,  Adam Zampa  ,3,10,0,0,2,21,2.1
+36,England vs Australia,England,  Travis Head  ,0,5,0,0,0,28,5.6
+36,England vs Australia,England,  Marcus Stoinis  ,1,4,0,0,0,34,8.5
+37,India vs South Africa,India,  Lungi Ngidi  ,1,8.2,0,0,2,63,7.6
+37,India vs South Africa,India,  Marco Jansen  ,1,9.4,0,1,11,94,9.7
+37,India vs South Africa,India,  Rabada  ,1,10,1,0,0,48,4.8
+37,India vs South Africa,India,  Maharaj  ,1,10,0,0,1,30,3
+37,India vs South Africa,India,  Shamsi  ,1,10,0,1,7,72,7.2
+37,India vs South Africa,India,  Markram  ,0,2,0,0,1,17,8.5
+37,India vs South Africa,South Africa,  Jasprit Bumrah  ,0,5,0,0,1,14,2.8
+37,India vs South Africa,South Africa,  Mohammed Siraj  ,1,4,1,0,0,11,2.8
+37,India vs South Africa,South Africa,  Ravindra Jadeja  ,5,9,1,0,0,33,3.7
+37,India vs South Africa,South Africa,  Mohammed Shami  ,2,4,0,0,1,18,4.5
+37,India vs South Africa,South Africa,  Kuldeep Yadav  ,2,5.1,1,0,0,7,1.4
+38,Bangladesh vs Sri Lanka,Sri Lanka,  Shoriful Islam  ,2,9.3,0,0,1,52,5.5
+38,Bangladesh vs Sri Lanka,Sri Lanka,  Taskin Ahmed  ,0,10,1,0,1,39,3.9
+38,Bangladesh vs Sri Lanka,Sri Lanka,  Tanzim Hasan Sakib  ,3,10,0,0,2,80,8
+38,Bangladesh vs Sri Lanka,Sri Lanka,  Shakib (c)  ,2,10,0,0,0,57,5.7
+38,Bangladesh vs Sri Lanka,Sri Lanka,  Mehidy Hasan Miraz  ,1,10,0,0,0,49,4.9
+38,Bangladesh vs Sri Lanka,Bangladesh,  Dilshan Madushanka  ,3,10,1,0,4,69,6.9
+38,Bangladesh vs Sri Lanka,Bangladesh,  Maheesh Theekshana  ,2,9,0,0,3,44,4.9
+38,Bangladesh vs Sri Lanka,Bangladesh,  Kasun Rajitha  ,0,4,0,0,0,47,11.8
+38,Bangladesh vs Sri Lanka,Bangladesh,  Dushmantha Chameera  ,0,8,0,0,2,54,6.8
+38,Bangladesh vs Sri Lanka,Bangladesh,  Angelo Mathews  ,2,7.1,1,0,1,35,4.9
+38,Bangladesh vs Sri Lanka,Bangladesh,  Dhananjaya de Silva  ,0,3,0,0,0,20,6.7
+39,Australia vs Afghanistan,Afghanistan,  Starc  ,1,9,0,0,5,70,7.8
+39,Australia vs Afghanistan,Afghanistan,  Hazlewood  ,2,9,0,0,1,39,4.3
+39,Australia vs Afghanistan,Afghanistan,  Maxwell  ,1,10,0,1,0,55,5.5
+39,Australia vs Afghanistan,Afghanistan,  Cummins (c)  ,0,8,0,0,1,47,5.9
+39,Australia vs Afghanistan,Afghanistan,  Zampa  ,1,10,0,0,3,58,5.8
+39,Australia vs Afghanistan,Afghanistan,  Head  ,0,3,0,0,0,15,5
+39,Australia vs Afghanistan,Afghanistan,  Stoinis  ,0,1,0,0,0,2,2
+39,Australia vs Afghanistan,Australia,  Mujeeb Ur Rahman  ,0,8.5,1,0,0,72,8.2
+39,Australia vs Afghanistan,Australia,  Naveen-ul-Haq  ,2,9,0,0,1,47,5.2
+39,Australia vs Afghanistan,Australia,  Azmatullah Omarzai  ,2,7,1,0,1,52,7.4
+39,Australia vs Afghanistan,Australia,  Rashid Khan  ,2,10,0,0,3,44,4.4
+39,Australia vs Afghanistan,Australia,  Noor Ahmad  ,0,10,1,0,5,53,5.3
+39,Australia vs Afghanistan,Australia,  Mohammad Nabi  ,0,2,0,0,0,20,10
+40,England vs Netherlands,England,  Aryan Dutt  ,2,10,0,1,1,67,6.7
+40,England vs Netherlands,England,  van Beek  ,2,10,0,0,14,88,8.8
+40,England vs Netherlands,England,  van Meekeren  ,1,10,0,0,5,57,5.7
+40,England vs Netherlands,England,  Bas de Leede  ,3,10,0,0,0,74,7.4
+40,England vs Netherlands,England,  van der Merwe  ,0,3,0,0,0,22,7.3
+40,England vs Netherlands,England,  Ackermann  ,0,7,0,0,0,31,4.4
+40,England vs Netherlands,Netherlands,  Chris Woakes  ,1,7,0,0,2,19,2.7
+40,England vs Netherlands,Netherlands,  David Willey  ,2,7,2,0,0,19,2.7
+40,England vs Netherlands,Netherlands,  Gus Atkinson  ,0,7,0,0,1,41,5.9
+40,England vs Netherlands,Netherlands,  Moeen Ali  ,3,8.2,0,0,0,42,5
+40,England vs Netherlands,Netherlands,  Adil Rashid  ,3,8,0,0,1,54,6.8
+41,New Zealand vs Sri Lanka,Sri Lanka,  Boult  ,3,10,3,0,3,37,3.7
+41,New Zealand vs Sri Lanka,Sri Lanka,  Southee  ,1,8,0,0,0,52,6.5
+41,New Zealand vs Sri Lanka,Sri Lanka,  Lockie Ferguson  ,2,10,2,0,0,35,3.5
+41,New Zealand vs Sri Lanka,Sri Lanka,  Santner  ,2,10,2,0,0,22,2.2
+41,New Zealand vs Sri Lanka,Sri Lanka,  Rachin Ravindra  ,2,7.4,0,0,0,21,2.7
+41,New Zealand vs Sri Lanka,Sri Lanka,  Glenn Phillips  ,0,1,0,0,0,3,3
+41,New Zealand vs Sri Lanka,New Zealand,  Dilshan Madushanka  ,0,6.2,0,0,1,58,9.2
+41,New Zealand vs Sri Lanka,New Zealand,  Maheesh Theekshana  ,1,7,0,0,0,43,6.1
+41,New Zealand vs Sri Lanka,New Zealand,  Dhananjaya de Silva  ,0,2,0,0,0,22,11
+41,New Zealand vs Sri Lanka,New Zealand,  Dushmantha Chameera  ,1,4,1,0,0,20,5
+41,New Zealand vs Sri Lanka,New Zealand,  Angelo Mathews  ,2,4,0,0,1,29,7.2
+42,South Africa vs Afghanistan,Afghanistan,  Rabada  ,0,10,0,0,0,40,4
+42,South Africa vs Afghanistan,Afghanistan,  Lungi Ngidi  ,2,8.3,0,0,6,69,8.1
+42,South Africa vs Afghanistan,Afghanistan,  Markram  ,0,4.3,0,0,0,25,5.6
+42,South Africa vs Afghanistan,Afghanistan,  Gerald Coetzee  ,4,10,1,0,2,44,4.4
+42,South Africa vs Afghanistan,Afghanistan,  Maharaj  ,2,10,1,0,2,25,2.5
+42,South Africa vs Afghanistan,Afghanistan,  Phehlukwayo  ,1,7,0,0,0,36,5.1
+42,South Africa vs Afghanistan,South Africa,  Mujeeb Ur Rahman  ,1,10,0,0,1,51,5.1
+42,South Africa vs Afghanistan,South Africa,  Naveen-ul-Haq  ,0,6.3,0,0,1,52,8
+42,South Africa vs Afghanistan,South Africa,  Mohammad Nabi  ,2,10,1,0,0,35,3.5
+42,South Africa vs Afghanistan,South Africa,  Azmatullah Omarzai  ,0,1,0,0,0,8,8
+42,South Africa vs Afghanistan,South Africa,  Rashid Khan  ,2,10,1,0,1,37,3.7
+42,South Africa vs Afghanistan,South Africa,  Noor Ahmad  ,0,9,0,0,3,49,5.4
+42,South Africa vs Afghanistan,South Africa,  Rahmat Shah  ,0,1,0,0,0,12,12
+43,Australia vs Bangladesh,Bangladesh,  Hazlewood  ,0,7,1,0,0,21,3
+43,Australia vs Bangladesh,Bangladesh,  Cummins (c)  ,0,8,0,0,8,56,7
+43,Australia vs Bangladesh,Bangladesh,  Abbott  ,2,10,0,1,0,61,6.1
+43,Australia vs Bangladesh,Bangladesh,  Mitchell Marsh  ,0,4,0,1,2,48,12
+43,Australia vs Bangladesh,Bangladesh,  Zampa  ,2,10,0,0,0,32,3.2
+43,Australia vs Bangladesh,Bangladesh,  Head  ,0,6,0,0,0,33,5.5
+43,Australia vs Bangladesh,Bangladesh,  Stoinis  ,1,5,0,0,2,45,9
+43,Australia vs Bangladesh,Australia,  Taskin Ahmed  ,1,10,0,0,1,61,6.1
+43,Australia vs Bangladesh,Australia,  Mahedi Hasan  ,0,9,0,0,1,38,4.2
+43,Australia vs Bangladesh,Australia,  Nasum Ahmed  ,0,10,0,0,1,85,8.5
+43,Australia vs Bangladesh,Australia,  Mehidy Hasan Miraz  ,0,6,0,0,0,47,7.8
+43,Australia vs Bangladesh,Australia,  Mustafizur Rahman  ,1,9.4,1,0,1,76,7.9
+44,England vs Pakistan,England,  Shaheen Afridi  ,2,10,1,0,0,72,7.2
+44,England vs Pakistan,England,  Haris Rauf  ,3,10,0,0,11,64,6.4
+44,England vs Pakistan,England,  Iftikhar Ahmed  ,1,7,0,0,0,38,5.4
+44,England vs Pakistan,England,  Mohammad Wasim Jr  ,2,10,0,0,1,74,7.4
+44,England vs Pakistan,England,  Shadab Khan  ,0,10,0,0,0,57,5.7
+44,England vs Pakistan,England,  Agha Salman  ,0,3,0,0,0,25,8.3
+44,England vs Pakistan,Pakistan,  David Willey  ,3,10,0,0,2,56,5.6
+44,England vs Pakistan,Pakistan,  Chris Woakes  ,1,5.3,0,0,0,27,4.9
+44,England vs Pakistan,Pakistan,  Adil Rashid  ,2,10,0,0,1,55,5.5
+44,England vs Pakistan,Pakistan,  Gus Atkinson  ,2,8,0,0,2,45,5.6
+44,England vs Pakistan,Pakistan,  Moeen Ali  ,2,10,0,0,0,60,6
+45,India vs Netherlands,India,  Aryan Dutt  ,0,7,0,0,1,52,7.4
+45,India vs Netherlands,India,  van Beek  ,0,10,0,0,1,107,10.7
+45,India vs Netherlands,India,  Ackermann  ,0,3,0,0,1,25,8.3
+45,India vs Netherlands,India,  van Meekeren  ,1,10,0,1,2,90,9
+45,India vs Netherlands,India,  van der Merwe  ,1,10,0,0,0,53,5.3
+45,India vs Netherlands,India,  Bas de Leede  ,2,10,0,0,8,82,8.2
+45,India vs Netherlands,Netherlands,  Jasprit Bumrah  ,2,9,1,0,1,33,3.7
+45,India vs Netherlands,Netherlands,  Mohammed Siraj  ,2,6,1,0,1,29,4.8
+45,India vs Netherlands,Netherlands,  Mohammed Shami  ,0,6,0,0,1,41,6.8
+45,India vs Netherlands,Netherlands,  Kuldeep Yadav  ,2,10,1,0,0,41,4.1
+45,India vs Netherlands,Netherlands,  Ravindra Jadeja  ,2,9,0,0,1,49,5.4
+45,India vs Netherlands,Netherlands,  Virat Kohli  ,1,3,0,0,0,13,4.3
+45,India vs Netherlands,Netherlands,  Shubman Gill  ,0,2,0,0,0,11,5.5
+45,India vs Netherlands,Netherlands,  Suryakumar Yadav  ,0,2,0,0,0,17,8.5
+45,India vs Netherlands,Netherlands,  Rohit Sharma (c)  ,1,0.5,0,0,0,7,8.4
+46,India vs New Zealand,India,  Boult  ,1,10,0,0,2,86,8.6
+46,India vs New Zealand,India,  Southee  ,3,10,0,0,1,100,10
+46,India vs New Zealand,India,  Santner  ,0,10,1,0,0,51,5.1
+46,India vs New Zealand,India,  Lockie Ferguson  ,0,8,0,0,1,65,8.1
+46,India vs New Zealand,India,  Rachin Ravindra  ,0,7,0,0,2,60,8.6
+46,India vs New Zealand,India,  Glenn Phillips  ,0,5,0,0,0,33,6.6
+46,India vs New Zealand,New Zealand,  Jasprit Bumrah  ,1,10,1,0,10,64,6.4
+46,India vs New Zealand,New Zealand,  Mohammed Siraj  ,1,9,0,0,3,78,8.7
+46,India vs New Zealand,New Zealand,  Mohammed Shami  ,7,9.5,0,0,6,57,5.8
+46,India vs New Zealand,New Zealand,  Ravindra Jadeja  ,0,10,0,1,0,63,6.3
+46,India vs New Zealand,New Zealand,  Kuldeep Yadav  ,1,10,0,0,0,56,5.6
+47,South Africa vs Australia,South Africa,  Starc  ,3,10,1,0,4,34,3.4
+47,South Africa vs Australia,South Africa,  Hazlewood  ,2,8,3,0,0,12,1.5
+47,South Africa vs Australia,South Africa,  Cummins (c)  ,3,9.4,0,0,2,51,5.3
+47,South Africa vs Australia,South Africa,  Zampa  ,0,7,0,0,0,55,7.9
+47,South Africa vs Australia,South Africa,  Maxwell  ,0,10,0,0,0,35,3.5
+47,South Africa vs Australia,South Africa,  Head  ,2,5,0,0,1,21,4.2
+47,South Africa vs Australia,Australia,  Marco Jansen  ,0,4.2,0,0,4,35,8.1
+47,South Africa vs Australia,Australia,  Kagiso Rabada  ,1,6,0,1,1,41,6.8
+47,South Africa vs Australia,Australia,  Aiden Markram  ,1,8,1,0,1,23,2.9
+47,South Africa vs Australia,Australia,  Gerald Coetzee  ,2,9,0,1,1,47,5.2
+47,South Africa vs Australia,Australia,  Tabraiz Shamsi  ,2,10,0,0,5,42,4.2
+47,South Africa vs Australia,Australia,  Keshav Maharaj  ,1,10,0,0,0,24,2.4
+48,India vs Australia,India,  Starc  ,3,10,0,0,4,55,5.5
+48,India vs Australia,India,  Hazlewood  ,2,10,0,0,1,60,6
+48,India vs Australia,India,  Maxwell  ,1,6,0,0,0,35,5.8
+48,India vs Australia,India,  Cummins (c)  ,2,10,0,0,2,34,3.4
+48,India vs Australia,India,  Zampa  ,1,10,0,0,2,44,4.4
+48,India vs Australia,India,  Mitchell Marsh  ,0,2,0,0,0,5,2.5
+48,India vs Australia,India,  Head  ,0,2,0,0,0,4,2
+48,India vs Australia,Australia,  Jasprit Bumrah  ,2,9,2,0,0,43,4.8
+48,India vs Australia,Australia,  Mohammed Shami  ,1,7,1,0,9,47,6.7
+48,India vs Australia,Australia,  Ravindra Jadeja  ,0,10,0,0,2,43,4.3
+48,India vs Australia,Australia,  Kuldeep Yadav  ,0,10,0,0,0,56,5.6
+48,India vs Australia,Australia,  Mohammed Siraj  ,1,7,0,0,0,45,6.4
